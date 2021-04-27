@@ -1,1 +1,1 @@
-# Hi 👋, I´m Steven, web developer
+# Hi there 👋, I´m Steven, web developer
