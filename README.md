@@ -1,4 +1,3 @@
-# Hi there 👋, I´m Steven, web developer
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
